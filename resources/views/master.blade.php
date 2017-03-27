@@ -77,7 +77,7 @@
                     <nav class="navbar navbar-default navbar-fixed-bottom">
                     <footer class="container">
                                     <!-- please dont delete this -->
-                                    created by <a href="http:facebook.com"><span><i class="fa fa-facebook" style="color:#1da1f2"></i> @Ahmad Taufik</span></a>
+                                    created by <a href="http:facebook.com"><span><i class="fa fa-facebook" style="color:#1da1f2"></i> @InganZakaria</span></a>
                                                                                                                                            <!--/ please dont delete this -->
                                                                                                                                            </footer>
                                                                                                                             </nav>
